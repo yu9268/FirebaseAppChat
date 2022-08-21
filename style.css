@@ -1,6 +1,6 @@
 body{
-  max-width:100%;
   width: 400px;
+  max-width:100%;
   min-height: 500px;
   border: solid rgba(0, 0, 0, 0) 3px;
   margin: 0 auto;
